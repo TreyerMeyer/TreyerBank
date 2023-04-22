@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TreyerBank</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnSucursales">Sucursales</string>
+    <string name="btnRecargas">Recargas</string>
+    <string name="btnPagos">Pagos</string>
+    <string name="btnSalirPagos">Salir</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="txt_PrimerValor">Ingresa el primer valor </string>
+    <string name="txt_SegundoValor">Ingresa el segundo valor </string>
+    <string name="rb1">Sumar</string>
+    <string name="rb2">Restar</string>
+    <string name="Button">Calcular</string>
+    <string name="TextView_resultado">Resultado</string>
+    <string name="title_activity_maps_uno">MapsActivityUno</string>
+
+</resources>
